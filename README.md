@@ -1,14 +1,14 @@
 <h1 align="center">Hallo 👋, ich bin Hamza A. Matea</h1>
-<h3 align="center">I'm a passionate Software Developer & Bounty Hunter</h3>
+<h2 align="center">I'm a passionate Software Developer & Bounty Hunter</h2>
 <img align="right" alt="Code" width ="400" src="[https://tenor.com/en-GB/view/coding-typing-big-brained-busy-sweating-gif-17808553](https://cdn.dribbble.com/users/1138449/screenshots/5815947/media/80074d01886ef4467cbf7c18eaba8685.png?compress=1&resize=320x240&vertical=center)">
 
 <p align="left"> <a href="https://twitter.com/mateasays" target="blank"><img src="https://img.shields.io/twitter/follow/mateasays?logo=twitter&style=for-the-badge" alt="mateasays" /></a> </p>
 
-- 🔭 I’m currently working on **Afya Project**
+- 🔭 I’m currently working on **AquaInnovate**
 
-- 🌱 I’m currently learning **CS50**
+- 🌱 I’m currently learning **CS50-24 & Space technology**
 
-- 💬 Ask me about **Android, Python, and Pentesting**
+- 💬 Ask me about **Android, Kotlin, Python, and Hacking**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
