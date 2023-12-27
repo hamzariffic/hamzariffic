@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **AquaInnovate**
 
-- 🌱 I’m currently learning **CS50-24 & Space technology**
+- 🌱 I’m currently learning **CS50x-24 & Space technology**
 
 - 💬 Ask me about **Android, Kotlin, Python, and Hacking**
 
