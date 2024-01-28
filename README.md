@@ -1,3 +1,4 @@
+# hamzariffic
 <h1 align="center">Hallo 👋, ich bin Hamza A. Matea</h1>
 <h2 align="center">I'm a passionate Software Developer & Bounty Hunter</h2>
 <img align="right" alt="Code" width ="400" src="[https://tenor.com/en-GB/view/coding-typing-big-brained-busy-sweating-gif-17808553](https://cdn.dribbble.com/users/1138449/screenshots/5815947/media/80074d01886ef4467cbf7c18eaba8685.png?compress=1&resize=320x240&vertical=center)">
