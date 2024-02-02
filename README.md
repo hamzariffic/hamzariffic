@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/mateasays" target="blank"><img src="https://img.shields.io/twitter/follow/mateasays?logo=twitter&style=for-the-badge" alt="mateasays" /></a> </p>
 
-- 🔭 I’m currently working on **AquaInnovate**
+- 🔭 I’m currently working on **Solutions Challenge**
 
 - 🌱 I’m currently learning **CS50x-24 & Space technology**
 
