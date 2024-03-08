@@ -23,6 +23,8 @@
   <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
+  ![Snake animation](https://github.com/hamzariffic/hamzariffic/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+
 <br/>
 
 <br/>
