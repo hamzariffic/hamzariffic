@@ -1,4 +1,4 @@
-<h1 align="center">Hallo 👋, ich bin Hamza A. Matea</h1>
+<h1 align="center">Servus Leute 👋, ich bin hamzariffic 🔠 </h1>
 
 <h2 align="center">I'm a Software Developer 💻⚙️ & I hunt Bounties ☠️💰🏴‍☠️</h2>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m working on **SmartHome Guard**
 
-- 🌱 I’m currently learning **CS50x-24 & Space technology**
+- 🌱 I’m currently learning **CS50x-24x, Go, & Space technology**
 
 - 💬 Ask me about **Android, Kotlin, Python, and Hacking**
 
@@ -24,9 +24,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-  ![Snake animation](https://github.com/hamzariffic/hamzariffic/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 <br/>
