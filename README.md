@@ -1,14 +1,12 @@
-<h1 align="center">Servus Leute 👋, ich bin hamzariffic 🔠 </h1>
-
-<h2 align="center">I'm a Software Developer 💻⚙️ & I hunt Bounties ☠️💰🏴‍☠️</h2>
+<h1 align="center">Servus Leute 👋</h1>
 
 <img align="right" alt="Code" width ="400" src="[https://tenor.com/en-GB/view/coding-typing-big-brained-busy-sweating-gif-17808553](https://cdn.dribbble.com/users/1138449/screenshots/5815947/media/80074d01886ef4467cbf7c18eaba8685.png?compress=1&resize=320x240&vertical=center)">
 
 <p align="left"> <a href="https://twitter.com/mateasays" target="blank"><img src="https://img.shields.io/twitter/follow/mateasays?logo=twitter&style=for-the-badge" alt="mateasays" /></a> </p>
 
-- 🔭 I’m working on **SmartHome Guard**
+- 🔭 I’m working on **Edcaster**
 
-- 🌱 I’m currently learning **CS50x-24x, Go, & Space technology**
+- 🌱 I’m currently learning **RUST, Go, & Astrophysics**
 
 - 💬 Ask me about **Android, Kotlin, Python, and Hacking**
 
