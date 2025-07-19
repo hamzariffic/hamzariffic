@@ -112,15 +112,6 @@
 
 ---
 
-## 🔥 Recent Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzariffic&repo=edcaster&theme=tokyonight)](https://github.com/hamzariffic/edcaster)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzariffic&repo=android-security-tools&theme=tokyonight)](https://github.com/hamzariffic/android-security-tools)
-
-</div>
-
 ---
 
 ## 💻 Weekly Development Breakdown
@@ -136,9 +127,9 @@ Other            5 mins          ░░░░░░░░░░░░░░░�
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 
-- 🚀 Launch Edcaster v2.0 with AI-powered features
+- 🚀 Launch Edcaster v1.0 with AI-powered features
 - 🦀 Master Rust for system programming
 - 🌐 Contribute to 5 major open-source projects
 - 📱 Develop a cross-platform security toolkit
