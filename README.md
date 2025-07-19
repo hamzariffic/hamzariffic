@@ -24,7 +24,6 @@
 
 ⚡ **Fun fact:** I debug code faster than I debug my life choices
 
-📫 **Reach me at:** [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
