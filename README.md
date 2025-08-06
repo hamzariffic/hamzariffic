@@ -24,7 +24,6 @@
 
 ⚡ **Fun fact:** I debug code faster than I debug my life choices
 
-
 ---
 
 ## 🌐 Connect With Me
@@ -86,12 +85,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzariffic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzariffic&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzariffic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzariffic&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzariffic&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hamzariffic&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
@@ -103,10 +102,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzariffic&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hamzariffic&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </div>
-
----
 
 ---
 
