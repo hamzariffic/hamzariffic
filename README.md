@@ -31,8 +31,6 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mateasays)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hamzamatea)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
 
 </div>
 
@@ -59,7 +57,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🚀 Currently Learning
+### 🚀 Currently Experimenting With
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
@@ -92,24 +90,11 @@
 
 ---
 
-## 💻 Weekly Development Breakdown
-
-```text
-Kotlin           8 hrs 30 mins   ████████████░░░░░   48.2%
-Python           4 hrs 15 mins   ███████░░░░░░░░░░   24.1%
-Rust             2 hrs 45 mins   ████░░░░░░░░░░░░░   15.6%
-Go               1 hr 20 mins    ██░░░░░░░░░░░░░░░    7.6%
-Configuration    45 mins         █░░░░░░░░░░░░░░░░    4.3%
-Other            5 mins          ░░░░░░░░░░░░░░░░░    0.5%
-```
-
----
-
 ## 🎯 2025 Goals
 
-- 🚀 Launch Edcaster v1.0 with AI-powered features
+- 🚀 Launch Ripped & Edcaster v1.0 with AI-powered features
 - 🦀 Master Rust for system programming
-- 🌐 Contribute to 5 major open-source projects
+- 🌐 Contribute to 5 major open-source projects - done
 - 📱 Develop a cross-platform security toolkit
 - 🎓 Complete advanced astrophysics course
 - 📝 Write 20 technical blog posts
