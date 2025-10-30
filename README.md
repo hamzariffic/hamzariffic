@@ -16,9 +16,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔭 **Currently working on:** Edcaster - Revolutionizing education technology
+🔭 **Currently working on:** Edcaster - Revolutionizing education technology & AI_Tips - a sports application
 
-🌱 **Learning:** Rust, Go, & Astrophysics (because why not explore the universe while coding! 🌌)
+🌱 **Learning:** Rust, (dropped Go) & Astrophysics
 
 💻 **Love talking about:** Android Development, Kotlin, Python, and Cybersecurity
 
@@ -121,14 +121,6 @@
 </div>
 
 ---
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/hamzariffic/hamzariffic/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
 
 ---
 
