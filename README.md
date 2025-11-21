@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm Hamza
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+Enthusiast;Python+Developer;Security+Researcher;Always+Learning+New+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+Head;Python+Developer;Security+Researcher;Always+Learning+New+Things!" alt="Typing SVG" />
 
 </div>
 
@@ -20,9 +20,7 @@
 
 🌱 **Learning:** Rust, (dropped Go) & Astrophysics
 
-💻 **Love talking about:** Android Development, Kotlin, Python, and Cybersecurity
-
-⚡ **Fun fact:** I debug code faster than I debug my life choices
+💻 **Love talking about:** Tech, Android Development, Kotlin, Python, and Cybersecurity
 
 ---
 
@@ -49,8 +47,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
 
 ### 🔧 Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
