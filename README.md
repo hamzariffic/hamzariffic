@@ -13,7 +13,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🔭 **Currently working on:** Edcaster – Revolutionizing education technology & AI_Tips – a sports application  
-🌱 **Learning:** Rust & Astrophysics (dropped Go for now)  
+🌱 **Learning:** Rust & Astrophysics  
 💻 **Love talking about:** Android, Kotlin, Python, Cybersecurity, and building antifragile systems
 
 ---
