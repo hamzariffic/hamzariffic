@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 👋 I'm Hamza
+# Hey there! 👋 whoami?
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+Head;Python+Developer;Security+Researcher;Always+Learning+New+Things!" alt="Typing SVG" />
 
