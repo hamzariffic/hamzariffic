@@ -1,18 +1,18 @@
 <div align="center">
 
-# Hey there! 👋 whoami?
+# Hey there! 👋 Whoami?
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Android+Developer;Kotlin+Head;Python+Developer;Security+Researcher;Always+Learning+New+Things!" alt="Typing SVG" />
 
   <img src="https://komarev.com/ghpvc/?username=hamzariffic&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile views" />
-
+ 
 </div>
 
 ---
 ## 🚀 About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🔭 **Currently working on:** Edcaster – Revolutionizing education technology & AI_Tips – a sports application  
+🔭 **Currently working on:** Enhancements of the systems designed in 2025.  
 🌱 **Learning:** Rust & Astrophysics  
 💻 **Love talking about:** Android, Kotlin, Python, Cybersecurity, and building antifragile systems
 
@@ -72,23 +72,17 @@
 </div>
 
 ---
-## 🎯 2025 Goals
-- 🚀 Launch Ripped & Edcaster v1.0 with AI-powered features  
-- 🦀 Master Rust for systems programming  
-- 🌐 Contribute to 5 major open-source projects → **done**  
-- 📱 Build a cross-platform security toolkit  
-- 🎓 Complete advanced astrophysics coursework  
-- 📝 Write 20 technical blog posts  
+20 technical blog posts  
 
 ---
-## 📈 Profile Stats
+## 📈 Stats
 <div align="center">
   <img src="https://img.shields.io/github/followers/hamzariffic?style=for-the-badge&color=0891b2&labelColor=1c1917" />
   <img src="https://img.shields.io/github/stars/hamzariffic?style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </div>
 
 ---
-## 💡 Random Dev Quote
+## 💡  Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
